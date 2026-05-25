@@ -85,8 +85,12 @@ My default mode is simple: understand the system, build the smallest useful vers
 ## GitHub pulse
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasad003&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahaprasad's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasad003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahaprasad003&theme=tokyonight" alt="GitHub profile summary" />
+</p>
+
+<p>
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahaprasad003&theme=tokyonight" alt="Repos per language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahaprasad003&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 ---
