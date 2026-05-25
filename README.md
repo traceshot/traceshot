@@ -1,25 +1,94 @@
-<h1 align="center">Hi 👋, I'm Mahaprasad</h1>
-<h3 align="center">maverick, reader, writer</h3>
+<h1 align="center">Mahaprasad Mohanty</h1>
 
-<p align="left"> <a href="https://twitter.com/mahaprasad_" target="blank"><img src="https://img.shields.io/twitter/follow/mahaprasad_?logo=twitter&style=for-the-badge" alt="mahaprasad_" /></a> </p>
-
-- 🔭 I’m currently working on **Machine Learning**
-
-- 🌱 I’m currently learning **Classical ML, DL, NLP**
-
-- 📫 How to reach me **mahaprasad003@gmail.com**
-
-- ⚡ Fun fact **I can blow your mind with a deck of cards**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahaprasad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahaprasad_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahaprasad003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahaprasad003" height="30" width="40" /></a>
+<p align="center">
+  <em>Applied ML, agentic systems, retrieval, evals, and the occasional terminal rabbit hole.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://x.com/mahaprasad_"><img src="https://img.shields.io/badge/X-@mahaprasad__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/mahaprasad003/"><img src="https://img.shields.io/badge/LinkedIn-mahaprasad003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://datapecharcha.substack.com"><img src="https://img.shields.io/badge/Substack-Data%20Pe%20Charcha-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Data Pe Charcha" /></a>
+  <a href="https://mahaprasad003.github.io"><img src="https://img.shields.io/badge/Website-mahaprasad003.github.io-2E3440?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahaprasad003&show_icons=true&locale=en&layout=compact" alt="mahaprasad003" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahaprasad003&" alt="mahaprasad003" /></p>
+I build and study applied ML systems, mostly around agentic AI, evaluation, retrieval, and production ML.
+
+Currently: MSc Data Science at VIT, co-author of a recent arXiv paper on hybrid wavelet-based PINNs for portfolio management, and writer of [Data Pe Charcha](https://datapecharcha.substack.com), where I try to explain ML without sanding off the interesting parts.
+
+My default mode is simple: understand the system, build the smallest useful version, test it against reality, then make it less ugly.
+
+## What I work on
+
+- Agentic AI systems: planning loops, tool use, evaluation, and reliability
+- Retrieval and RAG: hybrid search, reranking, dataset curation, failure analysis
+- MLOps: FastAPI services, experiment structure, model evaluation, deployment basics
+- Scientific ML: physics-informed neural networks, optimization, numerical methods
+- Tools for myself: terminal apps, recommendation feeds, Neovim config, automation scripts
+
+## Recent work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://arxiv.org/abs/2603.21834">HW-PINNs for portfolio management</a></h3>
+      <p>Hybrid wavelet-based physics-informed neural networks for derivative pricing under Merton jump-diffusion dynamics.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Mahaprasad003/E2E-Fraud-Detection">E2E-Fraud-Detection</a></h3>
+      <p>Fraud detection project with standard MLOps structure and FastAPI deployment.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Mahaprasad003/pomo-tui">pomo-tui</a></h3>
+      <p>A terminal Pomodoro timer in Rust with Vim keybindings.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Mahaprasad003/mcp-rss">mcp-rss</a></h3>
+      <p>A personal content recommendation MCP server.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Mahaprasad003/micrograd">micrograd</a></h3>
+      <p>Learning neural networks from the bottom up by working through micrograd.</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/Mahaprasad003/nvim-config">nvim-config</a></h3>
+      <p>My Neovim setup. Still infant, but already opinionated.</p>
+    </td>
+  </tr>
+</table>
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+## Writing and links
+
+- Newsletter: [Data Pe Charcha](https://datapecharcha.substack.com)
+- Website: [mahaprasad003.github.io](https://mahaprasad003.github.io)
+- X: [@mahaprasad_](https://x.com/mahaprasad_)
+- LinkedIn: [mahaprasad003](https://www.linkedin.com/in/mahaprasad003/)
+
+## GitHub pulse
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasad003&show_icons=true&theme=tokyonight&hide_border=true" alt="Mahaprasad's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasad003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+I lift, read, write, and occasionally over-engineer my own productivity tools. I can still probably ruin a quiet evening with a deck of cards.
