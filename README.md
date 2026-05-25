@@ -8,7 +8,7 @@
   <a href="https://x.com/mahaprasad_"><img src="https://img.shields.io/badge/X-@mahaprasad__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.linkedin.com/in/mahaprasad003/"><img src="https://img.shields.io/badge/LinkedIn-mahaprasad003-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://datapecharcha.substack.com"><img src="https://img.shields.io/badge/Substack-Data%20Pe%20Charcha-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Data Pe Charcha" /></a>
-  <a href="https://mahaprasad003.github.io"><img src="https://img.shields.io/badge/Website-mahaprasad003.github.io-2E3440?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
+  <a href="https://mahaprasad.xyz"><img src="https://img.shields.io/badge/Website-mahaprasad.xyz-2E3440?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
