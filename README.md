@@ -36,27 +36,27 @@ My default mode is simple: understand the system, build the smallest useful vers
       <p>Hybrid wavelet-based physics-informed neural networks for derivative pricing under Merton jump-diffusion dynamics.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Mahaprasad003/E2E-Fraud-Detection">E2E-Fraud-Detection</a></h3>
+      <h3><a href="https://github.com/traceshot/E2E-Fraud-Detection">E2E-Fraud-Detection</a></h3>
       <p>Fraud detection project with standard MLOps structure and FastAPI deployment.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Mahaprasad003/pomo-tui">pomo-tui</a></h3>
+      <h3><a href="https://github.com/traceshot/pomo-tui">pomo-tui</a></h3>
       <p>A terminal Pomodoro timer in Rust with Vim keybindings.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Mahaprasad003/mcp-rss">mcp-rss</a></h3>
+      <h3><a href="https://github.com/traceshot/mcp-rss">mcp-rss</a></h3>
       <p>A personal content recommendation MCP server.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Mahaprasad003/micrograd">micrograd</a></h3>
+      <h3><a href="https://github.com/traceshot/micrograd">micrograd</a></h3>
       <p>Learning neural networks from the bottom up by working through micrograd.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/Mahaprasad003/nvim-config">nvim-config</a></h3>
+      <h3><a href="https://github.com/traceshot/nvim-config">nvim-config</a></h3>
       <p>My Neovim setup. Still infant, but already opinionated.</p>
     </td>
   </tr>
@@ -85,12 +85,12 @@ My default mode is simple: understand the system, build the smallest useful vers
 ## GitHub pulse
 
 <p>
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahaprasad003&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=traceshot&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p>
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahaprasad003&theme=tokyonight" alt="Repos per language" />
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahaprasad003&theme=tokyonight" alt="Most committed languages" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traceshot&theme=tokyonight" alt="Repos per language" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traceshot&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 ---
