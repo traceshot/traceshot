@@ -78,7 +78,7 @@ My default mode is simple: understand the system, build the smallest useful vers
 ## Writing and links
 
 - Newsletter: [Data Pe Charcha](https://datapecharcha.substack.com)
-- Website: [mahaprasad003.github.io](https://mahaprasad003.github.io)
+- Website: [mahaprasad.xyz](https://mahaprasad.xyz)
 - X: [@mahaprasad_](https://x.com/mahaprasad_)
 - LinkedIn: [mahaprasad003](https://www.linkedin.com/in/mahaprasad003/)
 
